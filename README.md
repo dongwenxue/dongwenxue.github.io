@@ -15,3 +15,12 @@
 
 '''cat ~/.ssh/id_rsa.pub'''
 ###### 这条命令的作用是查看自己环境的SSH
+
+git add -A：第一次提交
+
+git commit -m "本次提交的修改的备注"：第二次提交
+
+git push origin main
+
+git push
+
